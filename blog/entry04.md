@@ -8,7 +8,13 @@ For this unit, the class hass been browsing and navigating tools that will make 
 Being that A-frame is so easy to use, it would make the process of creating my webpage simplier to accomplish and not as hard as it normally would be. The only  problem that seems to be happening while learning A-frame is that it's new to me. So, over the past few weeks, I have been navigating A-frame and learning the fundamentals of A-frame and I look foorward to using much more in class. Other then that, A-frame has been pretty exciting and engaging to use for me.
 
 #### Sources
-A-frame Website: (https://aframe.io/)
+* A-frame Website: (https://aframe.io/)
+
+* Pickcode Website: (https://pickcode.io/)
+
+* jQuery Website: (https://jquery.com/)
+
+* SASS Website: (https://sass-lang.com/)
 
 ### Engineering Design Process
 ![Screenshot 2025-03-02 8 53 31 PM](https://github.com/user-attachments/assets/45d72dc3-a3df-4dd8-a15c-db45f75d7f79)
