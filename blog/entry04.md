@@ -5,7 +5,7 @@
  For this unit, the class has been browsing and navigating tools that will make the end of the year freedom project easier and the process of creating a webpage about our chosen topic much easier. Three of the many tools we've browsed that interested me were A-frame, SASS, and jQuery. But, out of these three tools, I decided to choose A-frame. I've decided to choose A-frame because of the sheer simplicity and ease that it takes to navigate. A-frame drew my interest because of how easy it is to create 3D domains with only a few lines of raw HTML code. And I believe that adding these 3D elements can allow my webpage to stick out and emphasize the creativity that A-frame can bring to my project.
 
 ### Reflection
- Being that A-frame is so easy to use, it would make the process of creating my webpage simplier to accomplish and not as hard as it normally would be. The only  problem that seems to be happening while learning A-frame is that it's new to me. So, over the past few weeks, I have been navigating A-frame and learning the fundamentals of A-frame and I look foorward to using much more in class. Other then that, A-frame has been pretty exciting and engaging to use for me.
+ Being that A-frame is so easy to use, it would make the process of creating my webpage simpler to accomplish and not as hard as it normally would be. The only  problem that seems to be happening while learning A-frame is that it's new to me. So, over the past few weeks, I have been navigating A-frame and learning the fundamentals of A-frame and I look forward to using much more in class. Other than that, A-frame has been pretty exciting and engaging to use for me.
 
 #### Sources
 * A-frame Website: (https://aframe.io/)
